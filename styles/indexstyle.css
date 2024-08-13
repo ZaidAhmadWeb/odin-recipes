@@ -1,0 +1,30 @@
+.headding{
+    background-color: lightgreen;
+    color: rgb(75, 67, 46);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+a{
+    /* background-color: blue; */
+    text-decoration: none;
+    color: black;
+    margin-top: auto;
+}
+.item img{
+    width: 100px;
+    height: auto;
+    margin-right: 10px;
+}
+
+.item{
+    text-align: left;
+    background-color: rgb(153, 236, 153);
+    /* width: 100%; */
+    margin-top: 5px;
+    padding: 5px;
+    margin-right: 3px;
+}
